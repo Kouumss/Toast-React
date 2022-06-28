@@ -2,6 +2,7 @@ import React from "react";
 import tartine1 from "./asset/tartine1.jpg";
 import "./Article.css";
 
+
 const Article = () => {
   return (
     <div className="article">
