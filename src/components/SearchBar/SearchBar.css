@@ -1,0 +1,13 @@
+.btn1 {
+    height: 27px;
+    width: 37px;
+    background-color: #34EEBF;
+    border-radius: 5px !important;
+    color: #FFFFFF;
+}
+
+input {
+
+    border: 2px solid black;
+    border-radius: 5px !important;
+}
